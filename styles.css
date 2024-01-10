@@ -1,0 +1,26 @@
+.dp{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.bijiness_kerd{
+    display: flex;
+    width: 400px;
+    margin: 0 auto 0 auto;
+    border-bottom: 10px solid seashell;
+    padding: 10px;
+    margin-right:900px;
+    background-color: lightpink;
+}
+
+.bijiness_taxt{
+    color: rgb(63, 62, 62);
+    margin-left: 50px;
+    margin-right: 25px;
+    justify-content: center;
+    text-align: center;
+    font: 1em sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 20px;
+    border-radius: 50px;
+}
